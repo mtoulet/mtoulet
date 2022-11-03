@@ -14,15 +14,25 @@ I completed a fullstack JS developer training from o'clock school
 
 ### I work on :
 JavaScript ES6 , HTML5, CSS3
+
 NodeJS
+
 Express
+
 PostgreSQL
+
 GraphQL
+
 MongoDB
+
 NPM
+
 YARN
+
 Sqitch
+
 GIT
+
 
 <!---
 mtoulet/mtoulet is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
