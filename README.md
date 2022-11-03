@@ -5,9 +5,11 @@
 I'm Matthieu, i'm a Fullstack JS Developer .
 
 I completed a fullstack JS developer training from o'clock school
-####- 🌱 I’m currently learning React
+
+#### - 🌱 I’m currently learning React
 
 #### - 📫 How to reach me :
+
 [Mail](m-karmensky@gmail.com)
 
 
