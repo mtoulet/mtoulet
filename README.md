@@ -9,8 +9,14 @@ I completed a fullstack JS developer training from o'clock school
 
 #### - 📫 How to reach me :
 [Mail](m-karmensky@gmail.com)
+
+
 [Twitter](https://twitter.com/mkarmensky)
+
+
 [Linkedin](https://www.linkedin.com/in/matthieu-toulet/)
+
+
 
 ### I work on :
 JavaScript ES6 , HTML5, CSS3
